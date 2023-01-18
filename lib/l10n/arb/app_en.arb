@@ -1,0 +1,11 @@
+{
+    "@@locale": "en",
+    "favoritesTitle": "Your favorite coffees",
+    "@favoritesTitle": {
+        "description": "Text shown in the AppBar of the Favorites Page"
+    },
+    "favoritesErrorMessage": "Someone just spilled coffee on me and now I can't work properly. Here's what happened:",
+    "@favoritesErrorMessage": {
+        "description": "Text shown when there is a error in Favorites Page"
+    }
+}
